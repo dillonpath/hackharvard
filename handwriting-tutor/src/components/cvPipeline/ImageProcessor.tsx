@@ -1,4 +1,3 @@
-import * as tf from '@tensorflow/tfjs';
 import { LetterScore } from '../../types';
 
 export class ImageProcessor {
